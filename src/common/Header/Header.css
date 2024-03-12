@@ -1,0 +1,21 @@
+header{
+    background-color: blue;
+    width: 100%;
+    display:flex;
+    justify-content:space-between;
+    max-width:1100px;
+
+}
+.logo{
+
+    width: 100px;
+}
+nav ul{
+list-style-type: none;    
+display:flex;
+gap:15px;
+
+
+
+
+}
