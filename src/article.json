@@ -1,0 +1,74 @@
+[
+  {
+    "image": "https://it.ooni.com/cdn/shop/articles/Margherita-9920.jpg",
+    "date": "2024-03-11",
+    "likes": 10,
+    "title": "Pizza margherita",
+    "intro": "Ingredienti:pomodoro,mozzarella,basilico",
+    "isLiked": true
+  },
+  {
+    "image": "https://c8.alamy.com/compit/2md0kgk/pizza-americana-con-patatine-fritte-salsicce-di-wurstel-mozzarella-salsa-di-pomodoro-e-erbe-aromatiche-primo-piano-su-un-asse-di-legno-sul-tavolo-orizzontale-2md0kgk.jpg",
+    "date": "2024-03-10",
+    "likes": 20,
+    "title": "Pizza Americana",
+    "intro": "Ingredienti:Pomodoro, mozzarella, würstel, patate fritte",
+    "isLiked": true
+  },
+  {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/1c/67/4a/a9/pizza-boscaiola.jpg",
+    "date": "2024-03-09",
+    "likes": 15,
+    "title": "Boscaiola",
+    "intro": "Ingredienti:Mozzarella, champignon, salsiccia a fette",
+    "isLiked": true
+  },
+  {
+    "image": "https://foodandchips.com/wp-content/uploads/2019/02/BFV36537_CC2017_2IngredintDough4Ways-FB.jpg",
+    "date": "2024-03-08",
+    "likes": 18,
+    "title": "Diavola",
+    "intro": "Ingredienti:Pomodoro, mozzarella, salame piccante, peperoncino, olive nere",
+    "isLiked": false
+  },
+  {
+    "image": "https://wips.plug.it/cips/buonissimo.org/cms/2012/05/pizza-con-zafferano-e-frutti-di-mare.jpg",
+    "date": "2024-03-07",
+    "likes": 25,
+    "title": "Frutti di mare",
+    "intro": "Ingredinti Pomodoro, mozzarella, frutti di mare (gamberetti, cozze, calamari), aglio, prezzemolo",
+    "isLiked": true
+  },
+  {
+    "image": "https://primochef.it/wp-content/uploads/2020/04/SH_pizza_funghi_gorgonzola.jpg",
+    "date": "2024-03-06",
+    "likes": 12,
+    "title": "Funghi",
+    "intro": "Ingredienti Pomodoro, mozzarella, champignon, prezzemolo, olio",
+    "isLiked": false
+  },
+  {
+    "image": "https://www.saporinostri.it/wp-content/uploads/2020/10/le-origini-della-pizza-napoletana-e1601990439881.jpg",
+    "date": "2024-03-05",
+    "likes": 30,
+    "title": "Napoletana",
+    "intro": "Ingredienti Pomodoro, acciughe salate, origano, capperi, olio",
+    "isLiked": true
+  },
+  {
+    "image": "https://www.unmondodisapori.it/wp-content/uploads/2017/10/pizza-pugliese1-e1508428720622.png",
+    "date": "2024-03-04",
+    "likes": 22,
+    "title": "Pugliese",
+    "intro": " Ingredienti Pomodoro, mozzarella, cipolla, olive nere",
+    "isLiked": false
+  },
+  {
+    "image": "https://images.ctfassets.net/nw5k25xfqsik/4fHVjFojqqZwJbQQhMyU4y/f7f761202332fbc477d0e6306a9e6090/_AFL5245.jpg",
+    "date": "2024-03-03",
+    "likes": 17,
+    "title": "Quattro formaggi",
+    "intro": "Mozzarella, gorgonzola, fontina, parmigiano, basilico",
+    "isLiked": false
+  }
+]
